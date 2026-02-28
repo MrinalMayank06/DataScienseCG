@@ -1,0 +1,16 @@
+Employee_ID,Age,Department,Job_Role,Monthly_Income,Years_at_Company,Overtime,Job_Satisfaction,Attrition
+E001,29,Sales,Sales Executive,45000,3,Yes,4,No
+E002,35,HR,HR Manager,52000,7,No,3,No
+E003,28,IT,Software Engineer,60000,2,Yes,2,Yes
+E004,42,Finance,Accountant,58000,10,No,4,No
+E005,31,Sales,Sales Executive,47000,4,Yes,3,Yes
+E006,26,IT,Data Analyst,55000,1,Yes,2,Yes
+E007,39,HR,HR Executive,48000,6,No,4,No
+E008,30,IT,Software Engineer,62000,3,Yes,3,No
+E009,33,Sales,Sales Manager,75000,8,No,4,No
+E010,27,Finance,Financial Analyst,51000,2,Yes,,Yes
+E011,36,IT,Data Scientist,85000,5,No,5,No
+E012,41,Sales,Sales Executive,49000,9,Yes,3,Yes
+E013,24,IT,Software Engineer,54000,1,Yes,2,Yes
+E014,38,Finance,Accountant,60000,7,No,4,No
+E015,32,HR,HR Executive,47000,4,No,3,No

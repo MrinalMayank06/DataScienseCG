@@ -1,0 +1,21 @@
+Transaction_ID,Customer_ID,Category,Item,Price_Per_Unit,Quantity,Total_Spent,Payment_Method,Location,Transaction_Date,Discount,Region
+1,C001,Food,Apple,5,3,15,Cash,In-store,2024-01-01,,South
+2,C002,Furniture,Chair,25,1,25,Credit Card,Online,2024-01-02,,West
+3,C003,Electronics,Laptop,800,1,800,Cash,In-store,2024-01-03,,West
+4,C004,Clothing,Shirt,20,2,40,Credit Card,Online,2024-01-04,0.15,North
+5,C005,Food,Bread,3.5,5,,Cash,In-store,2024-01-05,0,North
+6,C001,Food,Milk,2.5,4,10,Credit Card,Online,2024-01-06,0.08,West
+7,C006,Furniture,Table,100,1,100,Cash,In-store,2024-01-07,,South
+8,C007,Electronics,Phone,500,2,1000,Credit Card,Online,2024-01-08,0.1,South
+9,C008,Clothing,Jacket,50,1,50,Cash,In-store,2024-01-09,,North
+10,C009,Food,Orange,4,6,24,Credit Card,Online,2024-01-10,,West
+11,C010,North,Bookshelf,150,1,150,Cash,In-store,2024-01-11,0.05,East
+12,C001,South,TV,300,1,300,Credit Card,Online,2024-01-12,0.1,West
+13,C002,East,Lamp,30,2,60,Cash,In-store,2024-01-13,,North
+14,C003,West,T-Shirt,15,3,45,Credit Card,Online,2024-01-14,0.1,South
+15,C004,North,Cheese,6,2,12,Cash,In-store,2024-01-15,0,East
+16,C005,South,Yogurt,1.5,10,,Credit Card,Online,2024-01-16,0.12,West
+17,C006,East,Sofa,400,1,400,Cash,In-store,2024-01-17,,North
+18,C007,West,Mobile Charger,10,1,10,Credit Card,Online,2024-01-18,0.05,South
+19,C008,North,Pants,35,2,70,Cash,In-store,2024-01-19,0.15,East
+20,C009,South,Banana,1.2,8,9.6,Credit Card,Online,2024-01-20,,West

@@ -1,0 +1,11 @@
+size,bedrooms,bathrooms,age,location,price
+1200,2,1,10,Urban,150000
+1500,3,2,5,Suburban,200000
+1800,3,2,8,Urban,250000
+2400,4,3,2,Suburban,320000
+1000,2,1,15,Rural,100000
+2200,4,2,4,Urban,280000
+1600,3,2,12,Rural,180000
+2000,3,3,6,Suburban,260000
+1400,2,1,20,Rural,120000
+3000,5,4,1,Urban,450000
