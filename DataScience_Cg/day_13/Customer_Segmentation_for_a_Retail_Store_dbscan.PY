@@ -1,7 +1,7 @@
 #   Scenario: Customer Segmentation for a Retail Store
 # Context:
 # A retail store wants to understand its customers better. They have data on how much each customer spends per visit and how frequently they visit the store. The goal is to group customers into clusters (e.g., “loyal high spenders,” “occasional visitors,” etc.) using DBSCAN, which is great for finding clusters of varying shapes and identifying outliers.
-#   M1 Capgemini: data = np.array([
+#    data = np.array([
 #     [5000, 50], [5200, 48], [4800, 52],   # Loyal high spenders
 #     [1500, 10], [1600, 12], [1400, 9],    # Occasional visitors
 #     [3000, 25], [3100, 27], [2900, 24],   # Moderate spenders
@@ -97,5 +97,6 @@ plt.title("Customer Segmentation using DBSCAN")
 
 plt.grid(True)
 plt.show()
+
 
 
