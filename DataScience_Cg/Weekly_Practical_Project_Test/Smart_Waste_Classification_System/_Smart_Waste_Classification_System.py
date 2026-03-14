@@ -1,3 +1,5 @@
+# dataset : https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification?utm_source=chatgpt.com
+
 # Scenario 1: Smart Waste Classification System (Waste Image Classifier)
 
 # What we are building:
