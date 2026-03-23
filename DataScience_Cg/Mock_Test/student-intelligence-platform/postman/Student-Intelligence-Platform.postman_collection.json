@@ -1,0 +1,87 @@
+{
+  "info": {
+    "name": "Student Intelligence Platform",
+    "_postman_id": "8aa27cbe-3ee5-4a9f-9e95-0a560cf6bdad",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Create Student",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/students",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "students"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\"name\": \"Kiki Sharma\", \"age\": 22, \"course\": \"AI\"}"
+        }
+      }
+    },
+    {
+      "name": "Get Students",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/students",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "students"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Probability",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/probability/pass?passed_count=30&total_count=100",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "probability",
+            "pass"
+          ],
+          "query": [
+            {
+              "key": "passed_count",
+              "value": "30"
+            },
+            {
+              "key": "total_count",
+              "value": "100"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:8000"
+    }
+  ]
+}

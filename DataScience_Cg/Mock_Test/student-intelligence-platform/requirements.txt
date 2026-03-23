@@ -1,0 +1,12 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.39
+pydantic==2.11.1
+pydantic-settings==2.8.1
+pandas==2.2.3
+matplotlib==3.10.1
+scikit-learn==1.6.1
+joblib==1.4.2
+python-dotenv==1.0.1
+pytest==8.3.5
+httpx==0.28.1

@@ -1,0 +1,21 @@
+student_id,name,age,course,hours_studied,attendance,assignments_completed,score,passed
+1,Aarav,21,AI,6.5,92,9,88,1
+2,Diya,20,Data Science,5.0,85,8,76,1
+3,Krish,22,AI,2.5,60,4,49,0
+4,Meera,21,Web Dev,4.0,78,7,68,1
+5,Rohan,23,Cloud,3.5,72,6,58,0
+6,Anaya,20,AI,7.0,95,10,91,1
+7,Vihaan,22,Data Science,1.5,55,3,42,0
+8,Saanvi,21,Web Dev,5.5,88,8,81,1
+9,Arjun,24,Cloud,6.0,90,9,84,1
+10,Kavya,22,AI,4.5,80,7,71,1
+11,Ishaan,21,Data Science,3.0,70,5,57,0
+12,Myra,20,Web Dev,6.2,91,9,87,1
+13,Advik,23,Cloud,2.2,66,4,50,0
+14,Kiara,21,AI,5.8,89,8,83,1
+15,Dev,22,Data Science,4.8,82,7,74,1
+16,Tara,20,Web Dev,2.8,64,5,52,0
+17,Yash,23,Cloud,5.1,86,8,77,1
+18,Riya,21,AI,3.4,73,6,61,1
+19,Reyansh,22,Data Science,6.4,93,9,89,1
+20,Siya,20,Web Dev,1.9,58,3,45,0
