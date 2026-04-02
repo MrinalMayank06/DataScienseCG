@@ -1,0 +1,7 @@
+STUDENT RESULT PROCESSING SYSTEM
+========================================
+Name: Meera, Marks: 95, Percentage: 95.0%, Grade: A+
+Name: Aarav, Marks: 91, Percentage: 91.0%, Grade: A+
+Name: Diya, Marks: 84, Percentage: 84.0%, Grade: A
+Name: Kabir, Marks: 76, Percentage: 76.0%, Grade: B
+Name: Rohan, Marks: 68, Percentage: 68.0%, Grade: C

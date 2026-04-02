@@ -1,0 +1,5 @@
+
+Contact us at support@example.com or sales@example.com.
+You can also reach admin@college.edu and hr@company.org.
+Duplicate email: support@example.com
+Invalid examples: user@@test.com, test@, @domain.com
