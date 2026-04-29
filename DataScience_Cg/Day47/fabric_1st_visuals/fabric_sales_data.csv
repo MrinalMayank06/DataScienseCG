@@ -1,0 +1,11 @@
+OrderID,Product,Region,Sales,Date
+1,Laptop,India,50000,2026-04-01
+2,Phone,USA,30000,2026-04-02
+3,Tablet,India,20000,2026-04-03
+4,Monitor,UK,15000,2026-04-04
+5,Keyboard,India,5000,2026-04-05
+6,Mouse,USA,7000,2026-04-06
+7,Printer,UK,12000,2026-04-07
+8,Camera,India,25000,2026-04-08
+9,Headphones,USA,18000,2026-04-09
+10,Speaker,UK,9000,2026-04-10
